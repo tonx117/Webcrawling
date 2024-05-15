@@ -1,0 +1,637 @@
+{
+    "https://agenty.com/": {
+        "h1": [
+            "Build a web scraping agent in 30 seconds using AI"
+        ],
+        "p": [
+            "Bring the web data to your business with the best web scraping tool to\n          automate the data collection, change monitoring and browser\n          automation.",
+            "Discover the power of data with our advanced web scraping software.\n          Extract valuable information from websites with AI. Our web scraping\n          software helps you to automate the data collection to enhance your\n          research, and gain valuable insights from competitor websites and\n          more.",
+            "Enter 1000s of URL to bulk scrape URLs on server-side web\n                  scraping",
+            "Automatic pagination and scroll to load all the items before\n                  scraping",
+            "Scrape the web anonymously with our residential proxies server",
+            "Scraping agent data extraction preview and control options.",
+            "Enter multiple URLs for batch data scraping.",
+            "Add/remove fields, enable pagination, proxies etc",
+            "See the agent logs for debugging and selectors troubleshooting",
+            "Custom javascript function to modify the scraping result",
+            "Capture high-resolution screenshots of any website with our\n                reliable website screenshot API",
+            "Auto extract the products, news, jobs data with trained AI modal\n                on thousands of websites",
+            "Download the website content with proxies and captcha bypass to\n                get full HTML content on your code",
+            "Forget the complexity of the web: our cloud-based web scraping software,\n        instant API allow you to build the best web scraping agents, configure\n        proxies, bypass captcha for automatic data collection.",
+            "From small one-time projects to high volume daily/weekly or monthly\n          data feeds, we have the solution and experience to deliver. Let the\n          expert data scraping team build, maintain, and host your data scraping\n          project. No implementation, no learning curve, no hassle. Just the\n          data you need, the way you need it.",
+            "Try free demo. No contract, commitment required!",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/products": {
+        "h1": [
+            "Products"
+        ],
+        "p": [
+            "Learn more about the Agenty products, services and proprietary tools for data scraping, website monitoring and browser automation with AI",
+            "Agenty simple no-code web scraper software as a service (SaaS) platform with easy-to-use automated web scraping tool for...",
+            "Automated website change detection, monitoring and alerts software to monitor websites content changes and visual activi...",
+            "Enhance your data mining pipeline with our rule-based web crawling software. Navigate the websites intelligently, target...",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/pricing": {
+        "h1": [
+            "Pricing"
+        ],
+        "p": [
+            "Agenty cloud platform offers simple, all-inclusive plans that scale\n            with your data extraction need and your team size. You can try\n            Agenty Free for 14 days and 100 pages credit!",
+            "14 days free trial, no credit card required!",
+            "Agenty proved to be an excellent partner for helping us in\n                  scrape websites. We experienced great engagement and superb\n                  online platform to scale our web crawling in very competitive\n                  price!",
+            "I have never experienced such an effective, prompt and\n                  friendly customer support. The Agenty team just made my\n                  scraper in a way to extract data and modify the result\n                  automatically to meet our system need. Highly recommended!",
+            "Just purchase the right plan subscription suits to your\n                    requirement and your subscription will be auto-renewed on\n                    each monthly anniversary.",
+            "Absolutely! Either you are FREE or PAID customer, your data\n                    and scraping agents are private. We take privacy very\n                    seriously. Please take a look at our\n                    privacy policy.",
+            "If you subscribed for yearly plan, the same pages credit\n                    will be added to your account each month anniversary until\n                    the subscription expire in 12 months.\n                    \n                    For example, you've purchased Professional plan with\n                    yearly subscription on July, 14th 2016. You will get the\n                    75,000 pages credit on 14th of each month until July, 15th\n                    2017. Click on the \"Yearly\" button to subscribe\n                    for yearly plan with additional discount available for each\n                    plan.",
+            "No, Agenty.com doesn\u2019t\n                    store any of your credit card information. We use PayPal and\n                    Stripe as one of the most secure and reputable payment\n                    gateways for online payment and recurring subscriptions.",
+            "Credits work like stamps, so you'd need one credit per\n                    input request. See this\n                    pages credit table\n                    to learn more.",
+            "No, un-used pages credit is not carried over to next month.",
+            "We'd love to hear from you. You can take a look at our\n                    Documentation or\n                    FAQs. And, you can always\n                    send us an email as well for\n                    any question you may have.",
+            "Yes, it's easy to cancel, just log in to your Agenty\n                    dashboard > Go to your Account > Settings >\n                    Subscription and hit the \"Cancel Subscription\"\n                    button. Your account will remain active until your renewal\n                    date and after that you will no longer be charged and the\n                    account will be suspended.",
+            "Yes, we do accept wire-transfer, purchase order and others\n                    convenient payment method needs for business for annual\n                    billing, enterprise plans and managed services. Get in touch\n                    with your sales representative to learn the best payment\n                    option available to you.",
+            "Our no-code web scraping app, point-and-click Chrome extension makes\n            real time data scraping quick & easy without coding.",
+            "See the documentation, or watch\n              video tutorials.",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/integrations": {
+        "h1": [
+            "Integrations"
+        ],
+        "p": [
+            "Automate data transfer with easy to use integrations build for web\n          scraping automation by connecting popular tools like Zapier, Google\n          Sheets, Amazon S3, Dropbox, and more to transfer the extracted result\n          Unlock productivity and save hours by automating the transfer of\n          scraped results to the platforms you rely on.",
+            "",
+            "Import the agent result to your Google Cloud Firebase NoSQL document database...",
+            "Import the agent result to your Google sheet...",
+            "",
+            "Upload the agent result CSV file to your FTP or SFTP server....",
+            "Upload the agent result CSV file on your Dropbox account....",
+            "Upload the agent result CSV file to your Amazon S3 Bucket on selected region....",
+            "",
+            "Import the agent result to your MongoDB NoSQL database collection....",
+            "",
+            "Upload products to your Shopify store, update prices, images and inventory autom...",
+            "",
+            "Crawl website and add, update agent result to your search indices on Algolia....",
+            "",
+            "Sends a HTTP POST request with result body in JSON format to given call_back URL...",
+            "Trigger a job completed email notification to given email address(s) when the ag...",
+            "This plugin lets you start another agent job for selected agent in your Agenty a...",
+            "Send the agent result to Zapier webhook....",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/marketplace": {
+        "h1": [
+            "Agenty Marketplace"
+        ],
+        "p": [
+            "Explore a wide range of open and commercial data sets across 15 categories including retail store locations, hotels brand, SaaS companies, online reviews, investors and list of startups.",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/solutions": {
+        "h1": [
+            "Solutions"
+        ],
+        "p": [
+            "Learn how Agenty is used by hundreds of businesses across industries for competitor price monitoring, high-quality data for machine learning, ads monitoring, MAP compliance monitoring and more...",
+            "Real-time competitor's price monitoring software as a service for eCommerce retailers and brands. Enterprise-level price...",
+            "Minimum advertised price (MAP) monitoring tool by Agenty to allow brands and manufacturers to monitor online retailers, ...",
+            "Explore a vast collection of over 5000+ Points of Interest (POI) datasets, encompassing locations across the United Stat...",
+            "Get high-quality training data set for machine learning and artificial intelligence (AI) to train your models for excell...",
+            "Monitor the advertising websites to ensure your text, images ads are visible all the time from different geo locations....",
+            "Extract products feed from manufacturer websites and automatically upload to your Shopify, Magento or WooCommerce stores...",
+            "Automatically crawl your website on-demand (daily, weekly etc) and add pages to search engine index on Algolia, Elastic ...",
+            "Generate thousands of leads that are available on industry websites, social media sites, classified websites, web direct...",
+            "Find the technologies used on websites for your research - E.g. Content management software, chat tool, analytics and mo...",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/enterprise": {
+        "h1": [
+            "Web Scraping Service for the Enterprises"
+        ],
+        "p": [
+            "Outsource your web scraping project to expert's team scraping\n          thousands of websites everyday",
+            "There's no need to spend precious time learning web scraping\n          techniques, analyzing websites. Outsource to Agenty, while you\n          concentrate on running your business to its full potential.",
+            "With our managed screen scraping service, our data experts\n                      will create, run and maintain your web scraping agents\n                      tailored to your needs and schedule them to collect data\n                      for you",
+            "Websites changes frequently! Our expert team will monitor\n                      and proactively manage your web scraping agents to ensure\n                      your data collection is not affected",
+            "Your secret is our secret. Make a confidential\n                      relationship with NDA to protect your business secrets",
+            "Get the SLA guarantee signed to ensure your data scraping\n                      won't stop, blocked or slowed down.",
+            "Your web scraping agent's performance, analyzed and\n                      optimized. We use sophisticated tools and scripting to\n                      zero in on potential problems before they affect your data\n                      collections",
+            "Your web scraping agents will never be queued! We give our\n                      highest priority to enterprise accounts so your targeted\n                      sites can be scraped fast and anonymously",
+            "We use our own web scraping tool deployed on AWS cloud and\n                      Microsoft Azure in 6 regions, auto-scalable for data\n                      extraction needs of any size.",
+            "Integrate Agenty with your favourite tools. Some of our\n                      popular integration includes SFTP, Amazon S3, Dropbox,\n                      MongoDb, Google Spreadsheet, Zapier...",
+            "Bring your custom logics to transform the data in your\n                      required format, using our scripting feature with\n                      unlimited possibilities.",
+            "Do you already have a web scraping service agreement with another\n          vendor?",
+            "Switch now to Agenty, and get up-to 20% less price from your current\n          billing with additional features and free setup by our data specialist\n          team.",
+            "From small one-time project to high volume daily/weekly or monthly\n          data scraping service, we have the solution and experience to deliver.",
+            "No implementation, no learning curve, no hassle. Just the data you\n          need, the way you need it.",
+            "Scalable API to start gathering data for your market research,\n          competitor analysis, and more.",
+            "Experience the future of data-driven decision making with our robust\n          web scraping API built to meet your custom enterprise requirements.",
+            "Yes, we are on cloud and have our server in USA, UK,\n                  Singapore, Japan, Australia and many other countries in the\n                  world for low latency.",
+            "Yes, it's flexible per your need. We have many enterprise\n                  customers in monthly, quarterly, bi-annual and annual\n                  agreement using our web scraping services happily",
+            "Yes, we can send you the invoice to generate PO (Purchase\n                  order) and pay to our bank account directly.",
+            "We'll give you enterprise access of our online tool\n                  cloud.agenty.com to\n                  see and manage all your web scraping projects",
+            "Yes, we have\n                  many integrations for automatic\n                  data transfer as well the API. You can use our\n                  SFTP plugin to\n                  transfer your web scraping jobs result to your FTP server.",
+            "Agenty web crawling specialist team will setup + maintain all\n                  your scraping agents under managed services.",
+            "Try free demo. No contract, commitment required!",
+            "Join thousands of businesses who use our web scraping service to\n                extract web data for their operations",
+            "",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/?utm_campaign=20485181654&utm_medium=kwd-498947667&utm_source=&utm_term=web%20scraping%20software&gad_source=1&gclid=CjwKCAjwupGyBhBBEiwA0UcqaIHT4UdK1A9isYpK5HdfhefEnktJWGwK5Oj0RxLeWdJ8gO_rsN1MYBoC9CEQAvD_BwE": {
+        "h1": [
+            "Build a web scraping agent in 30 seconds using AI"
+        ],
+        "p": [
+            "Bring the web data to your business with the best web scraping tool to\n          automate the data collection, change monitoring and browser\n          automation.",
+            "Discover the power of data with our advanced web scraping software.\n          Extract valuable information from websites with AI. Our web scraping\n          software helps you to automate the data collection to enhance your\n          research, and gain valuable insights from competitor websites and\n          more.",
+            "Enter 1000s of URL to bulk scrape URLs on server-side web\n                  scraping",
+            "Automatic pagination and scroll to load all the items before\n                  scraping",
+            "Scrape the web anonymously with our residential proxies server",
+            "Scraping agent data extraction preview and control options.",
+            "Enter multiple URLs for batch data scraping.",
+            "Add/remove fields, enable pagination, proxies etc",
+            "See the agent logs for debugging and selectors troubleshooting",
+            "Custom javascript function to modify the scraping result",
+            "Capture high-resolution screenshots of any website with our\n                reliable website screenshot API",
+            "Auto extract the products, news, jobs data with trained AI modal\n                on thousands of websites",
+            "Download the website content with proxies and captcha bypass to\n                get full HTML content on your code",
+            "Forget the complexity of the web: our cloud-based web scraping software,\n        instant API allow you to build the best web scraping agents, configure\n        proxies, bypass captcha for automatic data collection.",
+            "From small one-time projects to high volume daily/weekly or monthly\n          data feeds, we have the solution and experience to deliver. Let the\n          expert data scraping team build, maintain, and host your data scraping\n          project. No implementation, no learning curve, no hassle. Just the\n          data you need, the way you need it.",
+            "Try free demo. No contract, commitment required!",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/docs": {
+        "h1": [
+            "Getting Started with Agenty"
+        ],
+        "p": [
+            "Agenty helps you to automate the data collection, transformation, validation and analysis using the machine learning automotive agents running on cloud with distributed architecture to boost the performance and speed.",
+            "Most of the agents can be created using our Chrome Extension(Available on Chrome Store). After installing the extension, go to any website, launch the extension where you can add any number of fields, and choose the elements and type of information you want to extract.",
+            "Once the agent has been created, it can be started manually by clicking on the Start button available on agent details page or using the schedule option to run automatically on a particular time or day. And, If you are a developer and want to integrate with your existing app? you can also use our API as well to start the agent by passing the AgentId and the ApiKey.",
+            "After starting a agent job, it\u2019s progress can be tracked on agent details page, where you can see the job status, total input processed, and the progress in percentage.",
+            "Agenty offers a large and growing collection of Plugins to send the data to popular cloud storage, FTP and emails automatically, to make it smooth the delivery of agent result and important notification about the agent you are running.",
+            "After you sign up for a Agenty account, an organization is created automatically under the name you\u2019ve entered in company name field. This organization will be the home for all the agents or projects, you\u2019ll host with Agenty, along with the people involved in the process. As the person who signed-up/created the organization, you\u2019ll be designated as one of its Administrators.",
+            "After creating an organization, you can invite other team member to join your account with role-based security. Managing people\u2019s access to your organization with roles. A person\u2019s role in your organization defines their level of access to your Agenty account, its settings, projects, agents and your data. You can make people Admin, Manager, or Viewer for your organization.",
+            "The page credit is like a stamp, you\u2019d need pages credit to run your agents. The credit is deducted based on the number of successful processed pages by an agent job when it\u2019s completed or while running. The pages credit is not carried forward to next month, but the same pages credit is given every month as per your plan. For example, if you are on Professional plan - You will get 75k pages credit every month to run your agent jobs.",
+            "To use Agenty, after the initial 14 days free trial or 100 pages(whichever comes first), you\u2019d need to purchase a subscription to continue using Agenty. The subscriptions are available in Monthly and Annually billing options and can be purchased from the pricing page. Once the subscription purchase has been completed, Agenty will automatically charge the subscription amount every month(or year for annual) to renew the plan you\u2019ve purchased.",
+            "If you want to cancel your subscription, you can login to your account > then go to settings > subscription and click on the Cancel Subscription button learn more\u2026",
+            "14 days free trial, no credit card required!"
+        ]
+    },
+    "https://agenty.com/docs/videos": {
+        "h1": [
+            "Video Tutorials"
+        ],
+        "p": [
+            "Learn how to use Agenty's web scraping software to create scraping\n          agent, pagination and advance script for web crawling",
+            "Agenty scraping agent video tutorials to learn web scraping (also known as Screen Scraping, Web Data Extraction, Web Harvesting etc.) technique to extract large amounts of data from websites for retail price monitoring, to feed machine learning data algorithms and many other business use of web data. Watch step-by-step small videos with real life use cases to learn everything about web scraping.",
+            "Create and train a web scraping agent",
+            "Pagination in Web Scraping",
+            "Batch URL Crawling",
+            "Scraping details page from listings",
+            "Post-processing functions",
+            "How to add a blank field in scraping agent",
+            "How to Crawl Infinite Scrolling Website",
+            "Crawling Password Protected Website",
+            "How to scrape dynamic website data from network requests using Chrome web inspector",
+            "How to scrape data from single page application(SPA) websites",
+            "How to extract data from collapsible hidden elements",
+            "",
+            "How to scrape supplier website and upload product to Shopify store automatically",
+            "Agenty's website change detection software is all about tracking and monitoring changes that are made on the websites or web pages content and send a notification when change detected.",
+            "How to get a notification when a website changes using Agenty web page change detection software",
+            "How to get news alert related to your product, competitors or market",
+            "New features released in change detection agent for website change monitoring",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/docs/faq": {
+        "h1": [
+            "Frequently Asked Questions"
+        ],
+        "p": [
+            "Here are some frequently asked questions to quickly get the answer.",
+            "The scraping agent is a set of configurations like fields, selectors, URLs etc. of a particular website scraping. Since, most of the websites have their own different structure so a single scraping agent can extract the data from a particular website only where it was setup. But can extract any number of pages with similar structure.",
+            "The scraping agent can be created using our Chrome extension available in Chrome store",
+            "A successful request on web return 2xx HTTP status code. Agenty consider them as a successful request and counts that in page credit.",
+            "You\u2019d need to create a scraping agent to scrape data from a website.",
+            "The Free plan is limited to process 100 pages, or export 100 rows only (whichever comes first) using any agent (Web Scraping, change monitoring, browser automation etc.) available in Agenty.",
+            "To scrape data behind the link, you need to create 2 scraping agents and connect them with each other to go to details page :",
+            "See this complete documentation with an example Scraping Details Pages from Listings.",
+            "Scraping CAPTCHA websites is not supported in self-services plans, but we provide  Managed services of web scraping  also known as  Data As A Service  with hybrid technology to bypass the CAPTCHA using human labor combined with bot for decoding CAPTCHA images with powerful OCR technology and manual typing when needed to continue the crawler to get the potential data you need for your business. Get in touch with Agenty sales team to request a quote.",
+            "Go to the agent details page and then click on the  Edit  tab, it will open the agent editor where you can change any setting you want in the agent configuration.",
+            "",
+            "",
+            "Go to your agent page > click on the  Export  drop down button on the right corner of your result table > then  CSV  option to download the agent result in CSV format",
+            "",
+            "",
+            "You may delete agents by visiting the agents page in your Agenty account > Then, select the agents by clicking on the check box and then hit the  Delete button",
+            "",
+            "",
+            "If you\u2019ve subscribed for Agenty plan and subscription is set to automatically renew on monthly basis you can cancel your subscription from your account page. To turn off the automatic renewal, login and then",
+            "",
+            "",
+            "Your account will remain active until your renewal date and after that you will no longer be charged and the account will be suspended.",
+            "Please note: when you hit the  Cancel Subscription  button it doesn\u2019t process immediately, instead the request is submitted with billing team to cancel the subscription which might take up to 24 hours to reflect the change in your account and you will receive a confirmation email as soon the cancellation process is completed.",
+            "Here are the steps to delete your Agenty account (everything) permanently from Agenty Systems.",
+            "Note: Deleting account is an irreversible operation. Any data synced to your account will be deleted and no longer be accessible. Please ensure that you\u2019ve signed out of all Agenty instances before you delete your account.",
+            "",
+            "",
+            "14 days free trial, no credit card required!"
+        ]
+    },
+    "https://agenty.com/docs/api": {
+        "h1": [],
+        "p": []
+    },
+    "https://agenty.com/company/contact": {
+        "h1": [
+            "Contact us"
+        ],
+        "p": [
+            "Use the form below to get in touch with Agenty team to schedule a\n              demo for your project, ask question, technical support!",
+            "",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://cloud.agenty.com/login": {
+        "h1": [],
+        "p": []
+    },
+    "https://cloud.agenty.com/signup": {
+        "h1": [],
+        "p": []
+    },
+    "https://agenty.com/tools/webpage-to-screenshot": {
+        "h1": [
+            "Capture a website screenshot programmatically with API"
+        ],
+        "p": [
+            "Capture full-page screenshot for any website online in high\n          resolution, mobile emulator with automatic cookie consent, popup\n          blocker to generate clear-clean screenshot.",
+            "Convert a webpage into a screenshot by passing the URL. You can send\n          HTTP request in Curl, Node.js, PHP, Python, C# etc to generate a full\n          page screenshot via API.",
+            "List of options available to customize the screenshot background,\n          login, block ads, wait for a few seconds to render completely or lazy\n          load to customize the webpage screenshot.",
+            "See all options \u2192",
+            "Add the fullPage:true option to capture the full page\n          screenshot and take the webpage screenshot entirely",
+            "Add the proxy proxy:true option to proxy the request from\n          US, UK or other region for anonymity",
+            "Inject custom JavaScript to accept cookie consent, close popup,\n          manipulate DOM before capturing the webpage screenshot",
+            "Add the device, or resolution option to capture screenshots on\n          different devices.",
+            "14 days free trial, no credit card required!",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/docs/browser/extract-api": {
+        "h1": [
+            "Extract API"
+        ],
+        "p": [
+            "The extract API allows you to auto-extract the structured data from web. The structure data including schema.org, RDFa, Microdata, JSON-LD can be extracted easily by providing the page URL to /extract API.",
+            "Send a GET request to https://browser.agenty.com/api/extract endpoint with the url query parameter and your apiKey to extract structured data.",
+            "For example, I have this sample web-page with restaurant microdata in the HTML.  -",
+            "So running the /extract API with this URL in postman or any programming language to send a HTTP GET request will result in structured data extracted -",
+            "",
+            "",
+            "Sample response",
+            "14 days free trial, no credit card required!"
+        ]
+    },
+    "https://agenty.com/docs/browser/content-api": {
+        "h1": [
+            "Content API"
+        ],
+        "p": [
+            "The Content API download the full web-page HTML response as a string. Agenty will navigate to the given URL using proxies and capture the page\u2019s source content to return as response.",
+            "",
+            "",
+            "The /content API support both GET and POST methods and you can use the simple GET method to send the url of web-page to capture the page content, or the POST method with advanced settings and request url to capture the full page html with custom controls like timeout, cookies, waitFor etc.",
+            "See the request schema here",
+            "14 days free trial, no credit card required!"
+        ]
+    },
+    "https://agenty.com/company/contact/": {
+        "h1": [
+            "Contact us"
+        ],
+        "p": [
+            "Use the form below to get in touch with Agenty team to schedule a\n              demo for your project, ask question, technical support!",
+            "",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/enterprise/": {
+        "h1": [
+            "Web Scraping Service for the Enterprises"
+        ],
+        "p": [
+            "Outsource your web scraping project to expert's team scraping\n          thousands of websites everyday",
+            "There's no need to spend precious time learning web scraping\n          techniques, analyzing websites. Outsource to Agenty, while you\n          concentrate on running your business to its full potential.",
+            "With our managed screen scraping service, our data experts\n                      will create, run and maintain your web scraping agents\n                      tailored to your needs and schedule them to collect data\n                      for you",
+            "Websites changes frequently! Our expert team will monitor\n                      and proactively manage your web scraping agents to ensure\n                      your data collection is not affected",
+            "Your secret is our secret. Make a confidential\n                      relationship with NDA to protect your business secrets",
+            "Get the SLA guarantee signed to ensure your data scraping\n                      won't stop, blocked or slowed down.",
+            "Your web scraping agent's performance, analyzed and\n                      optimized. We use sophisticated tools and scripting to\n                      zero in on potential problems before they affect your data\n                      collections",
+            "Your web scraping agents will never be queued! We give our\n                      highest priority to enterprise accounts so your targeted\n                      sites can be scraped fast and anonymously",
+            "We use our own web scraping tool deployed on AWS cloud and\n                      Microsoft Azure in 6 regions, auto-scalable for data\n                      extraction needs of any size.",
+            "Integrate Agenty with your favourite tools. Some of our\n                      popular integration includes SFTP, Amazon S3, Dropbox,\n                      MongoDb, Google Spreadsheet, Zapier...",
+            "Bring your custom logics to transform the data in your\n                      required format, using our scripting feature with\n                      unlimited possibilities.",
+            "Do you already have a web scraping service agreement with another\n          vendor?",
+            "Switch now to Agenty, and get up-to 20% less price from your current\n          billing with additional features and free setup by our data specialist\n          team.",
+            "From small one-time project to high volume daily/weekly or monthly\n          data scraping service, we have the solution and experience to deliver.",
+            "No implementation, no learning curve, no hassle. Just the data you\n          need, the way you need it.",
+            "Scalable API to start gathering data for your market research,\n          competitor analysis, and more.",
+            "Experience the future of data-driven decision making with our robust\n          web scraping API built to meet your custom enterprise requirements.",
+            "Yes, we are on cloud and have our server in USA, UK,\n                  Singapore, Japan, Australia and many other countries in the\n                  world for low latency.",
+            "Yes, it's flexible per your need. We have many enterprise\n                  customers in monthly, quarterly, bi-annual and annual\n                  agreement using our web scraping services happily",
+            "Yes, we can send you the invoice to generate PO (Purchase\n                  order) and pay to our bank account directly.",
+            "We'll give you enterprise access of our online tool\n                  cloud.agenty.com to\n                  see and manage all your web scraping projects",
+            "Yes, we have\n                  many integrations for automatic\n                  data transfer as well the API. You can use our\n                  SFTP plugin to\n                  transfer your web scraping jobs result to your FTP server.",
+            "Agenty web crawling specialist team will setup + maintain all\n                  your scraping agents under managed services.",
+            "Try free demo. No contract, commitment required!",
+            "Join thousands of businesses who use our web scraping service to\n                extract web data for their operations",
+            "",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/products/scraping-agent/": {
+        "h1": [
+            "Web scraping tool with built-in captcha handling, IP block and rate\n          limiting"
+        ],
+        "p": [
+            "No-code web scraping software to extract data from websites online.\n          Whether you need to track competitor price, or looking for high\n          quality data feeds to train your AI algorithms - Agenty's web scraping\n          agents and the built-in API offers a wonderful web scraping experience\n          on cloud.",
+            "Agenty's powerful, scalable and SaaS based web data scraping tool\n            that makes it easy to extract data from websites of choices, no\n            matter the complexity of the web.",
+            "Setup your web scraping agents using point-and-click\n              Chrome extension \n              designed to build scrapers with a few clicks of mouse. No coding\n              required!",
+            "Automatic IP rotation with highly anonymous proxies for web\n              scraping with proxies. Extract content as seen by real-human in\n              different locations, using our geo-based proxies available for US,\n              UK, Canada, Italy, Germany, India, Japan and 100+ countries.",
+            "Extract data from unlimited web pages in a single agent. Simply\n              enter the website URLs in agent input, or upload a URL list to\n              scrape batch URLs automatically.",
+            "Built-in scheduler to automate the execution of web scraping tasks\n              at predetermined intervals, enhancing efficiency and convenience.",
+            "Ensures your scraping operations run automatically without manual\n              intervention on every hour, daily, weekly or any particular day(s)\n              in a week.",
+            "Enter your credentials in web scraping configuration to\n              authenticate and get data from websites that requires login to\n              access the web page you are running.",
+            "Go to the history tab to see or download all your web scraping\n              jobs results, for all agents. Accessible with\n              job_id and running date.",
+            "12+ integrations to create and automate workflow like email\n              notification, or send your scraped data to SFTP, Amazon S3,\n              Dropbox, Webhook, Google spreadsheet, and more...",
+            "JavaScript functions within a scraping tool to give you\n              extraordinary ability to modify, clean, and refine the results\n              obtained from web scraping processes.",
+            "Implement post-processing functions to manipulate the extracted\n              data, ensuring its accuracy and usefulness to ingest directly on\n              your app via webhook or API.",
+            "Learn how to use our free instant data scraper Chrome extension with\n          step-by-step video tutorials to extract data from websites.",
+            "Used by 20k+ users to scrape leads, competitor prices, news, jobs and\n          more...",
+            "Scraping data from over 55m links every month",
+            "Yes, we do have 100+ web scraping examples to practice and\n                  learn web scraping using Agenty scraping agents. Just\n                  login to your account\n                  and go to Agents > New > Sample tab to access web scraping\n                  examples built with a sandbox website to learn.",
+            "You can\n                  see this page to learn how to build a scraper using our\n                    Chrome extension\n                  to scrape data from websites or watch our\n                  how-to video tutorials here.",
+            "Agenty supports all types of web scraping techniques to\n                  extract data from the web. For example, you can use scraping\n                  agents to extract data using CSS selectors, REGEX, XPath,\n                  JSONPath etc.",
+            "Yes, we do offer agents setup where you can order a one-time\n                  scraping agent creation or can use\n                  managed services to outsource your\n                  complete project. Contact sales to\n                  request a quote.",
+            "Yes, we have 14 days free trial with 100 pages credit to try\n                  Agenty to see if it's fit for your requirement.",
+            "Yes, our API is REST based and you can\n                  use it in any programming language like Python, Node.js, PHP,\n                  C#, Java etc to start web scraping jobs, add URLs, download\n                  results and more.",
+            "Yes,\n                    JavaScript render\n                    option is enabled by default in all scraping agents to wait\n                    until the page has been rendered fully. And you can control\n                    it in the settings tab to enable-disable the JavaScript as\n                    per your need.",
+            "Additionally, you can increase the wait time or add a\n                    selector to watch for elements to scrape SPA and dynamic\n                    websites.",
+            "Yes, Agenty's scraping agent is a SaaS based application and\n                    you can use it online on any operating system. All you need\n                    is a browser to access\n                    cloud.agenty.com.",
+            "or api.agenty.com to access the data via API",
+            "Yes, our web scraping service is designed for enterprises to\n                  outsource their web scraping project to Agenty.\n                  See this page to learn more about\n                  enterprise-level web scraping service features.",
+            "The Statistical department of Slovenia tracks and monitors the retail\n          products prices online, which often have thousands of SKUs from\n          hundreds of websites.",
+            "See how the department was able to use Agenty to automate their web\n          data scraping, transformation and validation using our scraping agents\n          to extract prices from ecommerce websites.",
+            "Read the Case Study \u2192",
+            "Request a demo to get your web scraping project managed by\n                Agenty team.",
+            "",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/products/change-detection-agent/": {
+        "h1": [
+            "Website change detection and monitoring software"
+        ],
+        "p": [
+            "Cloud based change detection and\n          website monitoring software to track web pages and get\n          alert when they change. Just setup your agent and Agenty will\n          automatically monitor the webpage on schedule to see if\n          change detected in your selected area",
+            "Capture high-quality full-page screenshot with changes\n                    highlighted to see the difference easily.",
+            "Send an email alerts with details like what changed, when it\n                    was changed and website screenshot.",
+            "Add keywords to trigger only when a keyword has been added\n                    or removed in your selected area.",
+            "Advance scheduling option to schedule your agent to run on\n                    interval (5, 15, 30 minutes...), or with CRON expression.",
+            "Full reports with content changes, difference screenshot,\n                    and website status code.",
+            "REST based API to fetch changes report as JSON, create new\n                    change detection agent, update etc.",
+            "14 days free trial, no credit card required!",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/tools/webpage-to-pdf": {
+        "h1": [
+            "Convert a webpage into PDF"
+        ],
+        "p": [
+            "High-quality HTML to PDF conversion API to convert any URL into PDF by\n          adding the URL and delay options to render dynamic content.",
+            "Convert URLs or HTML content into high-quality PDF documents using our\n          low latency API with hundreds of active browser instances running on\n          cloud. The best way to generate pdf from url using real Headless Chrome browser\n          and Puppeteer and Playwright.",
+            "14 days free trial, no credit card required!",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/docs/": {
+        "h1": [
+            "Getting Started with Agenty"
+        ],
+        "p": [
+            "Agenty helps you to automate the data collection, transformation, validation and analysis using the machine learning automotive agents running on cloud with distributed architecture to boost the performance and speed.",
+            "Most of the agents can be created using our Chrome Extension(Available on Chrome Store). After installing the extension, go to any website, launch the extension where you can add any number of fields, and choose the elements and type of information you want to extract.",
+            "Once the agent has been created, it can be started manually by clicking on the Start button available on agent details page or using the schedule option to run automatically on a particular time or day. And, If you are a developer and want to integrate with your existing app? you can also use our API as well to start the agent by passing the AgentId and the ApiKey.",
+            "After starting a agent job, it\u2019s progress can be tracked on agent details page, where you can see the job status, total input processed, and the progress in percentage.",
+            "Agenty offers a large and growing collection of Plugins to send the data to popular cloud storage, FTP and emails automatically, to make it smooth the delivery of agent result and important notification about the agent you are running.",
+            "After you sign up for a Agenty account, an organization is created automatically under the name you\u2019ve entered in company name field. This organization will be the home for all the agents or projects, you\u2019ll host with Agenty, along with the people involved in the process. As the person who signed-up/created the organization, you\u2019ll be designated as one of its Administrators.",
+            "After creating an organization, you can invite other team member to join your account with role-based security. Managing people\u2019s access to your organization with roles. A person\u2019s role in your organization defines their level of access to your Agenty account, its settings, projects, agents and your data. You can make people Admin, Manager, or Viewer for your organization.",
+            "The page credit is like a stamp, you\u2019d need pages credit to run your agents. The credit is deducted based on the number of successful processed pages by an agent job when it\u2019s completed or while running. The pages credit is not carried forward to next month, but the same pages credit is given every month as per your plan. For example, if you are on Professional plan - You will get 75k pages credit every month to run your agent jobs.",
+            "To use Agenty, after the initial 14 days free trial or 100 pages(whichever comes first), you\u2019d need to purchase a subscription to continue using Agenty. The subscriptions are available in Monthly and Annually billing options and can be purchased from the pricing page. Once the subscription purchase has been completed, Agenty will automatically charge the subscription amount every month(or year for annual) to renew the plan you\u2019ve purchased.",
+            "If you want to cancel your subscription, you can login to your account > then go to settings > subscription and click on the Cancel Subscription button learn more\u2026",
+            "14 days free trial, no credit card required!"
+        ]
+    },
+    "https://agenty.com/docs/video": {
+        "h1": [],
+        "p": []
+    },
+    "https://agenty.com/affiliate": {
+        "h1": [],
+        "p": []
+    },
+    "https://agenty.com/company/about/": {
+        "h1": [],
+        "p": [
+            "Agenty is a SaaS platform with easy-to-use automated agents in cloud for\n        machine intelligence. Our\n        API ready agents are used by professionals &\n        businesses that enables them to convert the unstructured data into\n        structured spreadsheet and machine-readable data with no coding\n        required.",
+            "We are building a largest set of automotive agents to extract, clean,\n        validate, translate, OCR, sentiment analysis, text classifier, change\n        tracking the big data for businesses across Retail, Healthcare, Machine\n        Learning, Artificial Intelligence and more... Each month we process\n        billion of pages to extract the key data points for hundreds of\n        customers making us the leading distributed cloud computing\n        big-data-as-a-service provider start-up.",
+            "We are a young startup from Gurugram, India trying to organize the\n            unstructured data to make a difference in the world. We are\n            passionate about making data-driven insights easily accessible to\n            everyone.",
+            "",
+            "",
+            "Agenty has plans, from free to paid, that scale with your needs.",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/company/careers/": {
+        "h1": [
+            "Careers at Agenty"
+        ],
+        "p": [
+            "At Agenty, we pride ourselves on building powerful machine learning\n        software that's fun and easy to use. We have thousands of customers\n        globally, and you'll get to work with some of the biggest companies in\n        the world on challenging problems and deliver the solution using our\n        products stack.",
+            "We are looking for highly motivated individuals who are passionate about\n        building great products, and scalable cloud software to help our\n        customers succeed. If this describes you, find the open positions below\n        and apply!",
+            "Location:\n\n\nBahadurgarh,\n              Haryana\n124507\nSector 14, Bahadurgarh",
+            "2023-05-12\n2023-12-31\nFULL_TIME\nComputer Software\n\n\n\n\n\n\nINR\n\n240000\n360000\nYEAR",
+            "An exciting new opportunity for Dot Net API Developer is now\n            available in our development team. In this role you would be\n            expected to support the maintenance of our existing API, addition of\n            new API controllers and contribution to the creation of new product,\n            features, as well as other web related projects for Agenty.",
+            "We do NOT need your resume. Just email your Github profile, sample\n          project to\n          carrier@agenty.com",
+            "Location:\n\n\nBahadurgarh,\n              Haryana\n124507\nSector 14, Bahadurgarh",
+            "2023-05-12\n2023-12-31\nFULL_TIME\nComputer Software\n\n\n\n\n\n\nINR\n\n240000\n360000\nYEAR",
+            "We are looking for an experienced web designer to join our\n            engineering team to assist with new web pages designing, admin pages\n            for internal system management, and also designing the UI for our\n            new products and features on Agenty.",
+            "We do NOT need your resume. Just email your Github profile, sample\n          project to\n          carrier@agenty.com",
+            "Location:\n\n\nBahadurgarh,\n              Haryana\n124507\nSector 14, Bahadurgarh",
+            "2023-05-12\n2023-12-31\nFULL_TIME\nComputer Software\n\n\n\n\n\n\nINR\n\n240000\n360000\nYEAR",
+            "In this role, you will be working with our Enterprise customers to\n            build, host and maintain the Web Data Scraping, OCR, Text extraction\n            and other machine learning agents to help them in automating their\n            business process.",
+            "We do NOT need your resume. Just email your Github profile, sample\n          project to\n          carrier@agenty.com",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/company/terms/": {
+        "h1": [],
+        "p": [
+            "By using Agenty website, software or services, you agreed to the terms\n        of use given below.",
+            "The services that Agenty provides to you are subject to the following\n      Terms of Use (\"TOU\"). Agenty reserves the right to update the\n      TOU at any time without notice to you. The most current version of the TOU\n      can be reviewed by clicking on the \"Terms of Use\" hypertext link\n      located at the bottom of our web pages.",
+            "The Services (\"Software\") is the copyrighted work of Agenty\n      and/or our affiliates/suppliers. Use of the Software is governed by the\n      terms of the end user license agreement, if any, which accompanies or is\n      included with the Software (\"License Agreement\"). An end user\n      will be unable to signup unless he or she first agrees to the License\n      Agreement terms.",
+            "The Software is made available for download solely for use by end users\n      according to the License Agreement. Any reproduction or redistribution of\n      the Software not in accordance with the License Agreement is expressly\n      prohibited by law, and may result in severe civil and criminal penalties.\n      Violators will be prosecuted to the maximum extent possible.",
+            "As a condition to using Agenty software/services, you will be required to\n      register with the Agenty\n      service and select a password and your email id to obtain a license key.\n      You shall provide the Agenty Service with accurate, complete, and updated\n      registration information. Agenty reserves the right to refuse registration\n      of, or cancel a Agenty user registration in its sole discretion. Agenty\n      shall be responsible for maintaining the confidentiality of your Agenty\n      password. You shall never use another user's account without such\n      other user's express permission. You will immediately notify Agenty in\n      writing of any unauthorized use of your account, or other account-related\n      security breach of which you are aware.",
+            "Agenty hereby grants you a non-exclusive, non-transferable, worldwide\n      right and license to use the software/services, solely for your own\n      internal purposes, subject to the Terms of this Agreement. All rights not\n      expressly granted to you are reserved by Agenty and its licensors.",
+            "Agenty reserves the right to require\n      payment or fees for certain features of the\n      Service. You agree to pay all applicable charges under these Terms,\n      including any applicable taxes or charges imposed by any government\n      entity. There are no refunds for payments made once service/software has\n      been rendered. If you dispute any charge made for your use of the\n      Services, you must notify Agenty Support in writing within fifteen (15)\n      days of any such charge; failure to so notify Agenty shall result in the\n      waiver by you of any claim relating to any such disputed charge. Charges\n      shall be calculated solely based on invoicing records maintained by Agenty\n      for purposes of billing. No other measurements or statistics of any kind\n      shall be accepted by Agenty or have any effect under these Terms.",
+            "Agenty don\u2019t store payment information (e.g.: credit card, debit\n      card\u2026) on internal database, and we use third party payment gateway\n      (PayPal, Google checkout etc.) for transactions and require you to agree\n      there payment policy and taxes based on your location and business type.",
+            "Agenty alone (and its licensors, where applicable) shall own all rights,\n      title and interest, including all related Intellectual Property Rights, in\n      and to the Agenty technology and the services in addition to any\n      suggestions, ideas, enhancement requests, feedback, recommendations or\n      other information provided by users or any other party relating to the\n      Services. This Agreement is not a sale and does not convey to you any\n      rights of ownership in or related to the Services, the Agenty Technology\n      or the Intellectual Property Rights owned by Agenty, except as expressly\n      set forth herein. The Agenty\u2122 name are the trademark (\u2122) of\n      Agenty or third parties, and no right or license is granted to use this\n      name.",
+            "Web data extraction or web scraping from public websites is very common\n      and in most cases 100% legal. However it is up to you to determine the\n      legality of the way you plan to use our software/services. Agenty will\n      never knowingly build or host any data extraction or web scraping agent\n      that is obviously illegal. Agenty assumes that the agent you build will be\n      used legally and ethically and that you have obtained permission, if\n      necessary to use it on the targeted data source. Agenty reserves the right\n      to refuse the services/license to anyone wishing to use the\n      services/software in an illegal manner.",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/company/privacy/": {
+        "h1": [],
+        "p": [
+            "Agenty privacy policy sets out how we uses and protects your\n        information.",
+            "This privacy policy sets out how Agenty uses and protects any information\n      that you give us when you use www.agenty.com, cloud.agenty.com,\n      cdn.agenty.com, api.agenty.com and any other current or future sub-domains\n      (our sites).",
+            "Agenty is committed to ensuring that your privacy is protected and may\n      change this policy from time to time by updating this page. You should\n      check this page from time to time to ensure that you are happy with any\n      changes. Agenty doesn\u2019t guarantee continuous, uninterrupted or\n      secure access to its services or the website, and the operation of the\n      website may be interfered with by numerous factors outside or within\n      Agenty control.",
+            "At Agenty, we want you to know exactly how and when we collect and use\n      information that can specifically identify you, such as your name, company\n      name, phone number, and email address (\"personal information\").",
+            "We do not require that you provide, nor do we collect, any personal\n      information if you are just browsing the Site. We may offer on the Site\n      non-transactional and transaction based services (\"Service(s)\")\n      in which, subject to applicable terms and availability, you may\n      participate (e.g., submitting samples agents, videos, samples, Q&A on\n      forum or becoming a licensed user to buy Agenty services. In order to\n      provide you with the services/software you request, Agenty may require\n      that you first provide certain personal information, which we determine is\n      reasonably necessary in order for us to fulfill your request. If you\n      indicate an interest in participating in a service, we will identify what\n      specific personal information you must provide prior to collecting such\n      information. Any personal information which we collect from you will only\n      be used for the purposes identified in this privacy statement, the Agenty\n      terms of use and your applicable member agreement with Agenty, and as may\n      otherwise be indicated at the time the information is collected. To\n      update, modify or delete any personal information you provide to us with\n      respect to a service & software you may access your account with\n      Agenty under my account section.",
+            "The Site contains cookie technology, which collects non-personal\n      information about you which is used to customize the website for your\n      future use.",
+            "We may collect information about your computer, including where available\n      your IP address, operating system and browser type, for system\n      administration and to report aggregate information to our advertisers.\n      This is statistical data about our users' browsing actions and\n      patterns, and does not identify any individual.",
+            "You must be at least 18 years old to use this website and our software\n      and/or our SaaS based solution. We do not knowingly collect, use or\n      disclose personal information about visitors under 18 years of age. If you\n      are under 18 years of age, you can use the services & software offered\n      on our website only in conjunction with your parents or guardians.",
+            "All content, graphics, format, design, logo are trademarks of Agenty and\n      the software Data Scraping Studio which is owned by Agenty and/or its\n      licensors and/or partners. Company and product/service names displayed on\n      this website content may be the trademarks or copy right of their\n      respective owners. Users are not granted any right or license to use any\n      trademarks contained herein. All Logos, Images, Names used on Agenty are\n      property of their respective owners or ourselves.",
+            "If any graphic, content, samples, videos, Q&A, brand names on Agenty\n      should not be here and you feel it\u2019s your property and you\n      don\u2019t want it to be a part of the free promotion on Agenty, you can\n      request it to be removed from the website by simply sending a\n      request here",
+            "All Q&A, forum, samples, videos submitted by online users are property\n      of respective users, under cc by-sa 3.0 In addition, Agenty records IP\n      Address, Name, Email, Submit Date of users submitting information on the\n      website and can be provided on any infringement complain to copyright\n      owners. All respective copyright owner can ask to edit/delete their\n      property from Agenty by submitting a\n      request here with a notice of 60 days.",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://agenty.com/company/gdpr/": {
+        "h1": [
+            "GDPR"
+        ],
+        "p": [
+            "GDPR, stands for \u201cGeneral Data Protection Regulation\u201d. It is one of\n          the most important changes made to data privacy regulations in the\n          last two decades. It establishes a new framework for handling and\n          protecting the personal data of EU-based residents and is in effect\n          since May 25, 2018. It provides the citizens of the EU greater control\n          over their personal data and assures them that their information is\n          protected.",
+            "The GDPR is relevant to any globally operating company and not just\n          EU-based businesses and EU residents. Our customer's data is equally\n          important no matter where they are located, so we plan to implement\n          GDPR controls as our baseline standard for all Agenty operations,\n          worldwide.",
+            "Agenty Analytics Pvt. Ltd., with its registered\n          address 48, 1st Floor, Omaxe Galleria - Sector 14,\n          Bahadurgarh(Haryana) in India having company registraion no.\n          U72900HR2018PTC072172 (also referred to as \u201cAgenty\u201d, \u201cwe\u201d, \u201cus\u201d or\n          \u201cour\u201d), is deeply committed to providing its customers with the\n          maximum security and privacy, and is committed to comply with the\n          GDPR. On this page, we will explain our methods to achieve GDPR\n          compliance, both for ourselves and for our customers.",
+            "We are fully GDPR compliant since the 25th of May 2018. Over the past\n          few months, our teams have been working towards making sure that we\n          are aligned to the GDPR framework. Also, we've built product features\n          for greater privacy and data control.",
+            "As an organization, Agenty has always implemented and practiced\n          processes which ensure that customer data is stored and processed in\n          ways necessary only to serve our customers in the best possible way.\n          Our privacy, security policies are\n          also streamlined with the GDPR goals.",
+            "Agenty is committed towards upholding the underlying principles of\n          GDPR and here are some of the initiatives we've undertaken.",
+            "At Agenty, there exists an established Privacy Policy created with\n          support from our leadership. Our leaders commit to support and provide\n          guidelines for data protection compliance through a framework of\n          standard policies and procedures.",
+            "The GDPR requires organizations to provide more information about the\n          way individuals' information is used. Agenty delivers on our\n          customer's privacy policy objective by enabling comprehensive data\n          flow and process maps for the customer's data which is updated and is\n          in line with the GDPR guidelines. We incorporated a Data Processing\n          Addendum (DPA) into our Terms of Service so customers who subscribe to\n          Agenty have their data protected by GDPR.",
+            "The GDPR program thoroughly evaluates how Agenty, both as a data\n          controller and processor, is placed with its existing procedures for\n          readiness to",
+            "Agenty lets you delete customer/agent data permanently. You can delete\n          the customer/agent's profile and all the data associated with it like\n          agents, lists, team created by them.",
+            "Agenty currently supports the deletion of end-user profile information\n          as permanent delete which will erase all associated data like agents,\n          lists...",
+            "Know more about how to delete end-user profile\n          here",
+            "Agenty supports export request from customers. A customer can export\n          user contact details, tickets of the user, forums the user has\n          contributed to with the respective APIs.",
+            "The GDPR includes a right for individuals to have inaccurate personal\n          data rectified or completed if it is incomplete. End-users or\n          customers in Agenty can rectify any errors in their personal data by\n          editing their profiles.",
+            "Know more about how to edit personal profile\n          here",
+            "Know more about how to edit company profile\n          here",
+            "\u00a9 2024\n          \n          Agenty Analytics Private Limited.\n          All Rights Reserved",
+            "Agenty\u00ae is the\n        registered trademark\n        of Agenty Analytics Private Limited in India and/or other countries."
+        ]
+    },
+    "https://cloud.agenty.com/signin": {
+        "h1": [],
+        "p": []
+    },
+    "https://cloud.agenty.com/forgot-password": {
+        "h1": [],
+        "p": []
+    },
+    "https://agenty.com/pdfs/agenty-trademark-certification.pdf": {
+        "h1": [],
+        "p": []
+    },
+    "https://chrome.google.com/webstore/detail/agenty-advanced-web-scrap/gpolcofcjjiooogejfbaamdgmgfehgff": {
+        "h1": [
+            "Switch to Chrome?",
+            "Agenty - Advanced Web Scraper"
+        ],
+        "p": [
+            "Google recommends using Chrome when using extensions and themes.",
+            "174 ratings",
+            "Web scraping software with AI to extract data from websites using point-and-click extension to get data from web crawling",
+            "No-code web data scraping software to auto-extract data from websites using point-and-click CSS Selectors or AI.\n\nReal-time web data extraction preview and download into various formats like JSON, CSV or TSV.\n\nBuild free web scraper scripts using the Chrome extension and host on Agenty cloud for batch URL for bulk extraction, and more advanced web scraping features: like Scheduling, Anonymous website proxies, Website Crawling, Scrape 100 or millions of web pages, Extract multiple website simultaneously, uploading data to server, FTP, S3 etc.\n\nUsing the extension, you can build 3 types of agents -\n1. Web scraping agents\n2. Change detection agents\n3. Web crawling agents\n\nHow to use\n--------------------------------\n1. Go to website you want to extract and then launch the extension.\n2. Select agent type under \"Create new\" or you can use sample agents template under my agents.\n2. Click on a webpage element that you would like to extract (it will turn green). Agenty will then generate best CSS selector for that element, and will highlight (yellow) everything that is matched by that selector. \n3. Now you can click on a highlighted element to remove it from the selector (red), or click on an un-highlighted element to add it to the extractor. Through this process of selection and rejection, Agenty will help you come up with the perfect CSS selector for your items need to be extracted.\n4. Extract any number of fields with TEXT, HTML or ATTR (attributes) and instant output preview of extracted data.\n\nHow to edit an agent\n-------------------------------\n1. Go to the website URL, where the agent was created\n2. Launch the Agenty extension\n3. Click on the open button beside your agent to open it in Agenty.\n4. Now, you can add/change anything and save it back to your account.\n\n\nFeatures\n--------------------------------\n1. Extract any number of fields from a web-page.\n2. Use the built-in CSS selector to generate pattern with one click.\n3. Write your own custom CSS selector.\n4. Choose the item you want to extract. E.g. TEXT, HTML or ATTR (Attribute) \n5. See the result preview instantly as CSS selector selected.\n5. Toggle the position left/right.\n7. Export output in most popular file format JSON, CSV or TSV\n\nWhether you are scraping websites with Agenty or using the API in C#, Python, Node JS, Perl, Ruby, Java or JavaScript programming language. \n\nYou can use this Chrome extension to auto-generate CSS selectors for web scraping or web automation with Playwright, Puppeteer and Selenium for website testing.\n\nSee more details : https://agenty.com",
+            "Google doesn't verify reviews. Learn more about results and reviews.",
+            "First pay then see how it works",
+            "USELESS",
+            "An impressive service. Saves me a lot of time by not having to write and deploy my own Puppeteer scripts!",
+            "Agenty - Advanced Web Scraper has disclosed the following information regarding the collection and usage of your data. More detailed information can be found in the developer's privacy policy.",
+            "Scraper Parsers - Free Web Scraping",
+            "Scraper extracts data out of HTML web pages and imports it into excel, xls, xlsx, csv, json, xml files.",
+            "GrabzIt Web Scraping Assistant",
+            "Create Web Scrapes online easier than ever before with GrabzIt's Web Scraping Assistant.",
+            "get-set, Fetch! web scraper",
+            "Open source data scraper with csv, zip export capabilities. Provides scraping scenarios for fast, minimal configuration scraping.",
+            "Scrape Hawk",
+            "Scrape Hawk is the best point and click Scraper to get the info you need",
+            "Instant Data Scraper",
+            "Instant Data Scraper extracts data from web pages and exports it as Excel or CSV files",
+            "Scraper",
+            "Scraper gets data out of web pages and into spreadsheets.",
+            "Grabbly",
+            "A web extraction tool that allows you to easily extract data with a single click.",
+            "Web Scraper - Free Web Scraping",
+            "Web data extraction tool with an easy point-and-click interface for modern web",
+            "Simplescraper \u2014 a fast and free web scraper",
+            "A web scraper that's fast, free and simple to use. Scrape website data and table data in seconds",
+            "Web Scraper - GetData.IO",
+            "3-Click Web-to-CSV for Your ChatGPT Bot!",
+            "Data Scraper - Easy Web Scraping",
+            "Data Scraper extracts data out of HTML web pages and imports it into Microsoft Excel spreadsheets",
+            "ScreenScraper",
+            "Tool to automatically grab data from sites",
+            "Scraper Parsers - Free Web Scraping",
+            "Scraper extracts data out of HTML web pages and imports it into excel, xls, xlsx, csv, json, xml files.",
+            "GrabzIt Web Scraping Assistant",
+            "Create Web Scrapes online easier than ever before with GrabzIt's Web Scraping Assistant.",
+            "get-set, Fetch! web scraper",
+            "Open source data scraper with csv, zip export capabilities. Provides scraping scenarios for fast, minimal configuration scraping.",
+            "Scrape Hawk",
+            "Scrape Hawk is the best point and click Scraper to get the info you need",
+            "Instant Data Scraper",
+            "Instant Data Scraper extracts data from web pages and exports it as Excel or CSV files",
+            "Scraper",
+            "Scraper gets data out of web pages and into spreadsheets.",
+            "Grabbly",
+            "A web extraction tool that allows you to easily extract data with a single click.",
+            "Web Scraper - Free Web Scraping",
+            "Web data extraction tool with an easy point-and-click interface for modern web"
+        ]
+    }
+}
